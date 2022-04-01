@@ -32,3 +32,66 @@ body {
 /*
 Add some style blocks below this line to style the card.
 */
+.card1 {
+    box-sizing: border-box;
+    border: dotted 1px #CCC; 
+    width: 45vh;
+    height: 7vh;   
+    padding: 5px;
+    /*
+    Alternative syntax:
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    */
+    margin: 5px;
+    /*
+    Alternative syntax:
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    */
+}
+
+.image  {
+    box-sizing: border-box;
+    border: dotted 1px #CCC; 
+    width: 45vh;
+    height: 45vh;   
+    padding: 5px;
+    margin: 5px;
+    /*
+    Alternative syntax:
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    */
+}
+
+.text {
+    box-sizing: border-box;
+    border: dotted 1px #CCC; 
+    width: 45vh;
+    height: 7vh;   
+    padding: 5px;
+    /*
+    Alternative syntax:
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    */
+    margin: 5px;
+    /*
+    Alternative syntax:
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    */
+}
+
+
