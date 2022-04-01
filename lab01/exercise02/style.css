@@ -22,3 +22,42 @@ Feel free to borrow from Exercise 1.
 
     
 }
+.container {
+    display: flex;
+    flex-flow: row wrap
+    
+    
+}
+img {
+    margin: 10px;
+    padding: 5px;
+    border: dotted 1px #CCC;
+
+}
+
+p {
+    margin: 10px;
+    padding: 5px;
+    width: 400px;
+}
+
+h2 {
+    margin: 10px;
+    padding: 10px;
+    border: dotted 1px #CCC;
+}
+
+button {
+    margin: 10px;
+    width: 60px
+}
+
+section {
+    display: flex;
+    flex-flow: column;
+    width: fit-content;
+    margin: 10px;
+    padding: 5px;
+    border: dotted 1px #CCC;
+}
+
