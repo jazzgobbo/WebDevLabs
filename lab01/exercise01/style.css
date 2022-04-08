@@ -32,3 +32,46 @@ body {
 /*
 Add some style blocks below this line to style the card.
 */
+.card1 {
+    border: dotted 1px #CCC; 
+    width: 45vh;
+    height: 7vh;   
+    padding: 5px;
+    /*
+    Alternative syntax:
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    */
+    margin: 5px;
+    /*
+    Alternative syntax:
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    */
+}
+
+img {
+    padding: 5px
+}
+
+.text {
+    padding: 5px
+}
+
+section {
+    display: flex;
+    flex-flow: column;
+    width: fit-content;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px;
+    border: dotted 1px #CCC;
+}
+
+button {
+    width: 60px
+}
